@@ -1,3 +1,4 @@
+![Walmart Voice of the Employee Dashboard](https://user-images.githubusercontent.com/23224784/113783095-38e18f80-9701-11eb-8c62-9a8acf3e3434.jpg)
 # Walmart-Voice-of-the-Employee-Dashboard
 Sentiment Analysis peformed using Microsoft Excel's Azure Machine Learning Text Sentiment Analysis Add-In and Dashboarding in Power BI 
 
